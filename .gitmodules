@@ -1,0 +1,9 @@
+[submodule "ohmyzsh"]
+	path = .oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule ".vim_runtime/vimrc"]
+	path = .vim_runtime/vimrc
+	url = https://github.com/amix/vimrc.git
+[submodule "vimrc"]
+	path = .vim_runtime
+	url = https://github.com/amix/vimrc.git
